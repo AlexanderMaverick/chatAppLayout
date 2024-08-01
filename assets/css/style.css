@@ -102,6 +102,8 @@
   margin: 0 auto;
   width: 12vw;
   height: 24vh;
+  min-width: 142px;
+  min-height: 160px;
 }
 
 .chatPreview {
